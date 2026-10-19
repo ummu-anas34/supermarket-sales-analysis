@@ -1,0 +1,501 @@
+Invoice_ID,Date,Branch,City,Gender,Product_Line,Unit_Price,Quantity,Payment,Total_Sales
+INV0001,2026-04-13,B,Ibadan,Female,Home and Lifestyle,8849.89,9,Card,79649.01
+INV0002,2026-06-29,C,Lagos,Male,Home and Lifestyle,14493.16,2,Bank Transfer,28986.32
+INV0003,2026-04-03,A,Lagos,Male,Fashion Accessories,14002.5,3,Bank Transfer,42007.5
+INV0004,2026-01-15,A,Abuja,Female,Electronic Accessories,19829.49,5,Bank Transfer,99147.45
+INV0005,2026-04-17,C,Abuja,Male,Home and Lifestyle,3003.69,3,Bank Transfer,9011.07
+INV0006,2026-03-13,B,Abuja,Male,Food and Beverages,2530.14,8,Cash,20241.12
+INV0007,2026-01-21,B,Ibadan,Female,Home and Lifestyle,14624.61,10,Bank Transfer,146246.1
+INV0008,2026-04-13,A,Lagos,Male,Fashion Accessories,11778.54,8,Card,94228.32
+INV0009,2026-05-02,C,Lagos,Female,Sports and Travel,5846.13,8,Cash,46769.04
+INV0010,2026-03-16,B,Ibadan,Female,Fashion Accessories,2048.68,9,Bank Transfer,18438.12
+INV0011,2026-03-29,C,Lagos,Female,Sports and Travel,2170.34,4,Cash,8681.36
+INV0012,2026-04-27,C,Abuja,Male,Sports and Travel,17936.72,5,Card,89683.6
+INV0013,2026-04-10,A,Abuja,Male,Electronic Accessories,4241.41,5,Bank Transfer,21207.05
+INV0014,2026-04-14,B,Abuja,Male,Home and Lifestyle,6805.75,8,Card,54446.0
+INV0015,2026-06-01,A,Lagos,Female,Food and Beverages,4919.8,7,Bank Transfer,34438.6
+INV0016,2026-05-11,B,Abuja,Male,Food and Beverages,7422.43,9,Bank Transfer,66801.87
+INV0017,2026-05-30,B,Ibadan,Female,Health and Beauty,1853.76,8,Bank Transfer,14830.08
+INV0018,2026-02-22,B,Ibadan,Female,Sports and Travel,10621.67,2,Bank Transfer,21243.34
+INV0019,2026-01-02,B,Lagos,Male,Food and Beverages,1818.44,10,Bank Transfer,18184.4
+INV0020,2026-03-29,B,Ibadan,Female,Electronic Accessories,16106.95,4,Cash,64427.8
+INV0021,2026-06-07,C,Ibadan,Male,Sports and Travel,5057.39,6,Bank Transfer,30344.34
+INV0022,2026-02-07,A,Lagos,Male,Electronic Accessories,11030.23,2,Bank Transfer,22060.46
+INV0023,2026-05-10,C,Abuja,Male,Food and Beverages,17661.54,7,Cash,123630.78
+INV0024,2026-01-21,B,Abuja,Male,Food and Beverages,13192.11,3,Cash,39576.33
+INV0025,2026-06-10,A,Abuja,Male,Health and Beauty,10892.68,3,Cash,32678.04
+INV0026,2026-02-27,B,Lagos,Female,Food and Beverages,6824.51,2,Cash,13649.02
+INV0027,2026-01-22,A,Ibadan,Female,Sports and Travel,6993.54,8,Cash,55948.32
+INV0028,2026-03-30,C,Abuja,Female,Sports and Travel,13555.0,6,Cash,81330.0
+INV0029,2026-02-18,A,Abuja,Male,Sports and Travel,19885.72,1,Bank Transfer,19885.72
+INV0030,2026-02-28,A,Lagos,Male,Health and Beauty,13405.86,1,Bank Transfer,13405.86
+INV0031,2026-06-19,A,Abuja,Male,Health and Beauty,11376.78,7,Card,79637.46
+INV0032,2026-01-15,A,Lagos,Female,Food and Beverages,14747.68,8,Bank Transfer,117981.44
+INV0033,2026-06-24,A,Ibadan,Male,Fashion Accessories,9571.51,5,Bank Transfer,47857.55
+INV0034,2026-02-20,B,Lagos,Female,Fashion Accessories,1672.78,5,Cash,8363.9
+INV0035,2026-04-18,A,Lagos,Female,Health and Beauty,11464.79,4,Cash,45859.16
+INV0036,2026-02-24,A,Lagos,Male,Food and Beverages,19173.69,6,Bank Transfer,115042.14
+INV0037,2026-03-05,C,Lagos,Male,Fashion Accessories,3918.41,6,Card,23510.46
+INV0038,2026-05-11,A,Ibadan,Female,Food and Beverages,13955.1,3,Cash,41865.3
+INV0039,2026-02-20,C,Ibadan,Male,Food and Beverages,4418.21,9,Bank Transfer,39763.89
+INV0040,2026-05-15,B,Abuja,Female,Food and Beverages,10948.64,7,Bank Transfer,76640.48
+INV0041,2026-01-21,A,Ibadan,Male,Home and Lifestyle,2385.19,1,Card,2385.19
+INV0042,2026-03-14,C,Ibadan,Male,Sports and Travel,9282.23,7,Card,64975.61
+INV0043,2026-06-16,C,Abuja,Female,Food and Beverages,15245.18,5,Cash,76225.9
+INV0044,2026-01-18,B,Ibadan,Male,Home and Lifestyle,7277.64,5,Card,36388.2
+INV0045,2026-05-12,A,Lagos,Female,Health and Beauty,13465.78,2,Bank Transfer,26931.56
+INV0046,2026-03-30,A,Lagos,Male,Fashion Accessories,16011.27,4,Bank Transfer,64045.08
+INV0047,2026-03-01,C,Abuja,Female,Sports and Travel,18579.97,6,Card,111479.82
+INV0048,2026-01-14,A,Abuja,Female,Fashion Accessories,5075.52,10,Card,50755.2
+INV0049,2026-01-09,C,Abuja,Male,Sports and Travel,8286.66,7,Card,58006.62
+INV0050,2026-03-31,A,Lagos,Female,Fashion Accessories,3472.11,5,Card,17360.55
+INV0051,2026-02-22,C,Ibadan,Male,Sports and Travel,19853.43,9,Cash,178680.87
+INV0052,2026-05-10,A,Lagos,Male,Fashion Accessories,18576.52,3,Card,55729.56
+INV0053,2026-03-25,B,Abuja,Male,Fashion Accessories,11029.16,1,Cash,11029.16
+INV0054,2026-04-02,A,Ibadan,Female,Fashion Accessories,16919.65,4,Bank Transfer,67678.6
+INV0055,2026-04-21,A,Ibadan,Female,Fashion Accessories,10658.68,9,Card,95928.12
+INV0056,2026-06-21,B,Lagos,Male,Health and Beauty,12659.92,4,Cash,50639.68
+INV0057,2026-01-08,A,Abuja,Male,Food and Beverages,2237.93,2,Card,4475.86
+INV0058,2026-06-24,B,Lagos,Female,Electronic Accessories,15227.77,10,Bank Transfer,152277.7
+INV0059,2026-02-04,A,Ibadan,Male,Home and Lifestyle,2990.41,5,Bank Transfer,14952.05
+INV0060,2026-03-22,C,Lagos,Male,Electronic Accessories,16608.32,3,Bank Transfer,49824.96
+INV0061,2026-06-13,C,Lagos,Female,Electronic Accessories,15749.55,9,Card,141745.95
+INV0062,2026-02-19,A,Abuja,Male,Sports and Travel,14320.52,4,Card,57282.08
+INV0063,2026-04-14,A,Abuja,Female,Food and Beverages,1205.13,6,Cash,7230.78
+INV0064,2026-05-12,A,Ibadan,Male,Sports and Travel,6411.0,2,Bank Transfer,12822.0
+INV0065,2026-01-02,C,Lagos,Female,Food and Beverages,5630.7,6,Card,33784.2
+INV0066,2026-05-14,A,Lagos,Male,Food and Beverages,7522.66,3,Bank Transfer,22567.98
+INV0067,2026-02-23,C,Lagos,Male,Fashion Accessories,2209.03,9,Bank Transfer,19881.27
+INV0068,2026-04-16,B,Ibadan,Female,Health and Beauty,18770.68,2,Cash,37541.36
+INV0069,2026-01-04,C,Ibadan,Male,Fashion Accessories,11299.14,9,Cash,101692.26
+INV0070,2026-02-23,C,Abuja,Female,Health and Beauty,6457.72,5,Cash,32288.6
+INV0071,2026-05-26,B,Abuja,Male,Sports and Travel,8241.14,8,Cash,65929.12
+INV0072,2026-02-13,C,Abuja,Female,Health and Beauty,9220.45,2,Bank Transfer,18440.9
+INV0073,2026-06-11,A,Lagos,Female,Sports and Travel,12211.59,6,Cash,73269.54
+INV0074,2026-01-14,A,Lagos,Female,Electronic Accessories,10555.75,3,Cash,31667.25
+INV0075,2026-04-05,C,Abuja,Female,Electronic Accessories,18428.14,10,Cash,184281.4
+INV0076,2026-02-17,A,Lagos,Male,Health and Beauty,10190.79,5,Cash,50953.95
+INV0077,2026-01-15,C,Abuja,Male,Health and Beauty,19847.08,8,Bank Transfer,158776.64
+INV0078,2026-02-09,A,Ibadan,Female,Sports and Travel,17102.79,10,Cash,171027.9
+INV0079,2026-03-23,A,Abuja,Female,Fashion Accessories,4565.96,1,Bank Transfer,4565.96
+INV0080,2026-04-21,C,Ibadan,Female,Sports and Travel,18646.61,5,Card,93233.05
+INV0081,2026-02-22,A,Lagos,Male,Fashion Accessories,2769.14,3,Bank Transfer,8307.42
+INV0082,2026-01-24,C,Abuja,Male,Electronic Accessories,16440.27,4,Bank Transfer,65761.08
+INV0083,2026-06-03,A,Lagos,Male,Food and Beverages,7922.15,2,Cash,15844.3
+INV0084,2026-05-04,A,Ibadan,Male,Health and Beauty,17620.5,9,Card,158584.5
+INV0085,2026-02-10,B,Ibadan,Female,Fashion Accessories,17427.11,3,Card,52281.33
+INV0086,2026-06-06,B,Ibadan,Female,Sports and Travel,16215.55,2,Card,32431.1
+INV0087,2026-01-15,C,Lagos,Female,Electronic Accessories,15905.59,10,Card,159055.9
+INV0088,2026-02-14,B,Lagos,Male,Fashion Accessories,6441.24,9,Bank Transfer,57971.16
+INV0089,2026-03-06,C,Lagos,Male,Sports and Travel,2077.93,7,Card,14545.51
+INV0090,2026-03-30,B,Lagos,Male,Health and Beauty,8358.11,6,Bank Transfer,50148.66
+INV0091,2026-03-12,A,Ibadan,Female,Health and Beauty,3883.73,1,Bank Transfer,3883.73
+INV0092,2026-01-09,C,Ibadan,Female,Home and Lifestyle,14051.55,5,Bank Transfer,70257.75
+INV0093,2026-03-29,C,Abuja,Male,Food and Beverages,7248.94,3,Card,21746.82
+INV0094,2026-05-09,A,Abuja,Female,Home and Lifestyle,19524.4,1,Cash,19524.4
+INV0095,2026-05-16,C,Lagos,Male,Electronic Accessories,12998.96,4,Cash,51995.84
+INV0096,2026-03-04,C,Ibadan,Male,Fashion Accessories,16538.37,2,Card,33076.74
+INV0097,2026-05-19,B,Ibadan,Female,Electronic Accessories,3084.23,2,Cash,6168.46
+INV0098,2026-03-22,C,Ibadan,Male,Sports and Travel,17309.28,3,Cash,51927.84
+INV0099,2026-05-16,A,Abuja,Female,Health and Beauty,18493.77,8,Bank Transfer,147950.16
+INV0100,2026-06-12,B,Abuja,Male,Home and Lifestyle,9997.71,8,Bank Transfer,79981.68
+INV0101,2026-06-12,B,Ibadan,Female,Home and Lifestyle,12321.93,7,Card,86253.51
+INV0102,2026-02-02,A,Ibadan,Female,Home and Lifestyle,15413.79,6,Card,92482.74
+INV0103,2026-05-03,A,Ibadan,Female,Electronic Accessories,3909.35,9,Cash,35184.15
+INV0104,2026-01-05,B,Abuja,Male,Health and Beauty,10300.04,4,Bank Transfer,41200.16
+INV0105,2026-02-10,C,Ibadan,Male,Fashion Accessories,8273.93,1,Card,8273.93
+INV0106,2026-01-28,B,Ibadan,Female,Sports and Travel,3354.29,8,Card,26834.32
+INV0107,2026-05-15,A,Lagos,Female,Fashion Accessories,7666.92,7,Card,53668.44
+INV0108,2026-03-13,B,Lagos,Male,Electronic Accessories,1829.36,7,Card,12805.52
+INV0109,2026-01-12,A,Abuja,Male,Sports and Travel,1003.33,3,Card,3009.99
+INV0110,2026-06-11,B,Ibadan,Male,Home and Lifestyle,3135.74,4,Card,12542.96
+INV0111,2026-02-02,C,Ibadan,Female,Food and Beverages,19280.74,10,Cash,192807.4
+INV0112,2026-02-17,B,Lagos,Male,Electronic Accessories,11215.83,9,Bank Transfer,100942.47
+INV0113,2026-05-31,B,Abuja,Male,Electronic Accessories,19333.53,6,Bank Transfer,116001.18
+INV0114,2026-03-03,A,Lagos,Female,Health and Beauty,8933.71,5,Card,44668.55
+INV0115,2026-02-06,A,Lagos,Male,Fashion Accessories,6580.41,3,Bank Transfer,19741.23
+INV0116,2026-04-09,A,Lagos,Male,Electronic Accessories,10369.77,9,Bank Transfer,93327.93
+INV0117,2026-06-21,B,Lagos,Male,Electronic Accessories,9070.48,5,Bank Transfer,45352.4
+INV0118,2026-04-14,C,Ibadan,Female,Home and Lifestyle,2560.46,5,Card,12802.3
+INV0119,2026-02-04,A,Ibadan,Female,Home and Lifestyle,12996.11,4,Card,51984.44
+INV0120,2026-04-11,A,Lagos,Female,Sports and Travel,4712.74,4,Bank Transfer,18850.96
+INV0121,2026-06-24,B,Abuja,Female,Food and Beverages,12581.97,1,Bank Transfer,12581.97
+INV0122,2026-05-11,A,Abuja,Female,Health and Beauty,13178.92,7,Card,92252.44
+INV0123,2026-01-01,C,Abuja,Female,Food and Beverages,3464.48,9,Cash,31180.32
+INV0124,2026-01-05,C,Abuja,Female,Sports and Travel,1696.32,3,Bank Transfer,5088.96
+INV0125,2026-05-22,A,Lagos,Male,Home and Lifestyle,15724.85,2,Cash,31449.7
+INV0126,2026-04-13,A,Ibadan,Male,Fashion Accessories,9466.11,3,Bank Transfer,28398.33
+INV0127,2026-01-27,B,Abuja,Female,Home and Lifestyle,1634.19,1,Cash,1634.19
+INV0128,2026-05-17,C,Lagos,Male,Health and Beauty,19899.89,6,Cash,119399.34
+INV0129,2026-01-15,C,Abuja,Male,Home and Lifestyle,1626.72,7,Cash,11387.04
+INV0130,2026-03-31,A,Abuja,Female,Health and Beauty,14053.19,2,Card,28106.38
+INV0131,2026-02-11,B,Lagos,Male,Health and Beauty,19681.74,8,Cash,157453.92
+INV0132,2026-05-04,C,Ibadan,Male,Health and Beauty,5164.01,6,Cash,30984.06
+INV0133,2026-06-28,C,Ibadan,Male,Sports and Travel,3273.86,4,Cash,13095.44
+INV0134,2026-03-04,B,Lagos,Male,Health and Beauty,2867.01,5,Bank Transfer,14335.05
+INV0135,2026-04-06,B,Ibadan,Male,Health and Beauty,6413.87,8,Cash,51310.96
+INV0136,2026-02-21,C,Lagos,Female,Fashion Accessories,2470.39,3,Bank Transfer,7411.17
+INV0137,2026-04-06,C,Lagos,Female,Food and Beverages,13997.15,3,Cash,41991.45
+INV0138,2026-05-12,B,Lagos,Female,Electronic Accessories,1714.69,4,Cash,6858.76
+INV0139,2026-05-31,C,Ibadan,Male,Food and Beverages,10433.73,1,Card,10433.73
+INV0140,2026-05-23,A,Lagos,Female,Health and Beauty,19935.59,9,Bank Transfer,179420.31
+INV0141,2026-06-20,A,Abuja,Male,Fashion Accessories,16372.42,8,Cash,130979.36
+INV0142,2026-01-29,B,Ibadan,Male,Home and Lifestyle,12496.78,8,Bank Transfer,99974.24
+INV0143,2026-02-05,B,Ibadan,Male,Fashion Accessories,6471.95,10,Bank Transfer,64719.5
+INV0144,2026-01-13,B,Ibadan,Male,Health and Beauty,12665.97,6,Card,75995.82
+INV0145,2026-06-09,A,Ibadan,Female,Fashion Accessories,10777.31,7,Card,75441.17
+INV0146,2026-03-12,C,Abuja,Female,Fashion Accessories,8808.63,6,Card,52851.78
+INV0147,2026-03-27,A,Ibadan,Male,Health and Beauty,3048.85,9,Card,27439.65
+INV0148,2026-01-28,C,Ibadan,Female,Sports and Travel,17788.78,3,Card,53366.34
+INV0149,2026-03-07,A,Lagos,Male,Fashion Accessories,9270.8,3,Card,27812.4
+INV0150,2026-06-19,C,Ibadan,Female,Electronic Accessories,4295.14,3,Card,12885.42
+INV0151,2026-02-14,A,Abuja,Female,Electronic Accessories,7671.31,10,Card,76713.1
+INV0152,2026-03-03,B,Abuja,Male,Fashion Accessories,8575.53,3,Cash,25726.59
+INV0153,2026-05-14,A,Abuja,Female,Sports and Travel,16636.99,9,Bank Transfer,149732.91
+INV0154,2026-01-28,C,Abuja,Male,Home and Lifestyle,14805.48,4,Card,59221.92
+INV0155,2026-01-28,A,Ibadan,Female,Health and Beauty,15501.45,7,Card,108510.15
+INV0156,2026-04-18,A,Ibadan,Male,Electronic Accessories,715.11,9,Bank Transfer,6435.99
+INV0157,2026-02-13,A,Abuja,Male,Home and Lifestyle,8615.0,7,Cash,60305.0
+INV0158,2026-03-25,B,Abuja,Female,Fashion Accessories,9886.21,9,Bank Transfer,88975.89
+INV0159,2026-01-30,A,Ibadan,Female,Home and Lifestyle,874.25,3,Bank Transfer,2622.75
+INV0160,2026-03-16,B,Abuja,Male,Food and Beverages,5566.36,4,Card,22265.44
+INV0161,2026-05-08,B,Lagos,Female,Electronic Accessories,15325.65,8,Bank Transfer,122605.2
+INV0162,2026-04-02,A,Abuja,Female,Fashion Accessories,3173.64,6,Bank Transfer,19041.84
+INV0163,2026-05-09,A,Abuja,Male,Health and Beauty,10938.55,5,Card,54692.75
+INV0164,2026-05-01,A,Lagos,Male,Sports and Travel,4696.44,4,Card,18785.76
+INV0165,2026-01-27,C,Lagos,Female,Fashion Accessories,736.36,8,Card,5890.88
+INV0166,2026-05-01,A,Ibadan,Male,Health and Beauty,5203.43,1,Card,5203.43
+INV0167,2026-04-26,B,Ibadan,Male,Sports and Travel,19529.54,9,Bank Transfer,175765.86
+INV0168,2026-01-03,A,Lagos,Male,Sports and Travel,16129.97,1,Bank Transfer,16129.97
+INV0169,2026-04-13,C,Lagos,Female,Fashion Accessories,19211.74,8,Cash,153693.92
+INV0170,2026-06-04,A,Ibadan,Female,Home and Lifestyle,10013.15,4,Cash,40052.6
+INV0171,2026-05-17,C,Abuja,Male,Home and Lifestyle,2639.86,9,Bank Transfer,23758.74
+INV0172,2026-03-03,C,Lagos,Female,Sports and Travel,11185.21,5,Cash,55926.05
+INV0173,2026-06-14,A,Ibadan,Male,Home and Lifestyle,9360.36,3,Bank Transfer,28081.08
+INV0174,2026-02-20,B,Abuja,Female,Food and Beverages,16964.96,9,Cash,152684.64
+INV0175,2026-06-21,C,Lagos,Male,Sports and Travel,2412.61,9,Card,21713.49
+INV0176,2026-06-01,A,Abuja,Male,Sports and Travel,10020.7,4,Cash,40082.8
+INV0177,2026-02-28,A,Ibadan,Female,Health and Beauty,3425.95,4,Card,13703.8
+INV0178,2026-04-28,B,Lagos,Male,Home and Lifestyle,6831.18,8,Card,54649.44
+INV0179,2026-06-09,C,Abuja,Female,Sports and Travel,14878.46,2,Card,29756.92
+INV0180,2026-04-06,C,Lagos,Female,Food and Beverages,9782.35,9,Card,88041.15
+INV0181,2026-06-29,A,Abuja,Male,Health and Beauty,7829.82,6,Cash,46978.92
+INV0182,2026-04-23,A,Ibadan,Male,Fashion Accessories,8192.29,9,Bank Transfer,73730.61
+INV0183,2026-03-03,B,Ibadan,Female,Sports and Travel,9459.21,8,Card,75673.68
+INV0184,2026-02-21,B,Lagos,Male,Food and Beverages,15807.82,7,Cash,110654.74
+INV0185,2026-01-12,C,Abuja,Male,Electronic Accessories,17895.65,1,Card,17895.65
+INV0186,2026-02-08,C,Lagos,Male,Food and Beverages,19129.03,3,Cash,57387.09
+INV0187,2026-05-10,A,Lagos,Male,Food and Beverages,15844.62,2,Cash,31689.24
+INV0188,2026-05-11,C,Abuja,Male,Health and Beauty,6650.43,5,Cash,33252.15
+INV0189,2026-04-23,B,Abuja,Female,Fashion Accessories,13918.63,5,Bank Transfer,69593.15
+INV0190,2026-04-11,B,Abuja,Female,Electronic Accessories,9033.26,5,Cash,45166.3
+INV0191,2026-04-23,A,Ibadan,Male,Home and Lifestyle,5466.08,4,Cash,21864.32
+INV0192,2026-03-22,B,Lagos,Male,Home and Lifestyle,16897.0,5,Bank Transfer,84485.0
+INV0193,2026-04-23,B,Lagos,Male,Food and Beverages,1249.31,3,Bank Transfer,3747.93
+INV0194,2026-01-02,B,Ibadan,Female,Health and Beauty,18084.36,1,Cash,18084.36
+INV0195,2026-05-10,B,Abuja,Male,Health and Beauty,9498.81,5,Bank Transfer,47494.05
+INV0196,2026-02-23,A,Ibadan,Female,Home and Lifestyle,12925.43,9,Card,116328.87
+INV0197,2026-03-28,A,Ibadan,Female,Electronic Accessories,13357.4,9,Card,120216.6
+INV0198,2026-05-09,C,Ibadan,Female,Fashion Accessories,17954.8,4,Bank Transfer,71819.2
+INV0199,2026-05-27,B,Lagos,Male,Electronic Accessories,12915.06,3,Bank Transfer,38745.18
+INV0200,2026-05-06,C,Ibadan,Female,Sports and Travel,12471.7,1,Cash,12471.7
+INV0201,2026-05-10,A,Lagos,Male,Sports and Travel,1799.71,2,Bank Transfer,3599.42
+INV0202,2026-02-22,A,Lagos,Female,Fashion Accessories,10608.96,8,Cash,84871.68
+INV0203,2026-06-21,A,Lagos,Male,Home and Lifestyle,3428.3,1,Card,3428.3
+INV0204,2026-06-09,A,Abuja,Female,Fashion Accessories,14879.96,8,Bank Transfer,119039.68
+INV0205,2026-06-09,A,Lagos,Male,Health and Beauty,10488.33,7,Cash,73418.31
+INV0206,2026-03-09,A,Lagos,Female,Sports and Travel,13764.44,8,Cash,110115.52
+INV0207,2026-05-03,A,Abuja,Male,Food and Beverages,1312.62,6,Card,7875.72
+INV0208,2026-05-25,B,Lagos,Male,Food and Beverages,2153.44,9,Bank Transfer,19380.96
+INV0209,2026-02-07,C,Ibadan,Male,Home and Lifestyle,14468.31,3,Card,43404.93
+INV0210,2026-01-24,A,Ibadan,Male,Health and Beauty,1905.64,10,Cash,19056.4
+INV0211,2026-03-10,B,Lagos,Female,Electronic Accessories,1889.51,4,Cash,7558.04
+INV0212,2026-04-26,B,Abuja,Female,Health and Beauty,736.12,6,Bank Transfer,4416.72
+INV0213,2026-04-08,C,Ibadan,Male,Food and Beverages,19151.78,8,Cash,153214.24
+INV0214,2026-05-19,A,Abuja,Female,Food and Beverages,14881.41,5,Bank Transfer,74407.05
+INV0215,2026-05-24,C,Abuja,Male,Sports and Travel,7388.4,3,Card,22165.2
+INV0216,2026-04-07,A,Ibadan,Male,Health and Beauty,6282.44,6,Bank Transfer,37694.64
+INV0217,2026-05-04,B,Abuja,Female,Health and Beauty,7319.21,4,Bank Transfer,29276.84
+INV0218,2026-03-11,B,Ibadan,Male,Food and Beverages,15605.74,9,Cash,140451.66
+INV0219,2026-04-03,B,Abuja,Male,Electronic Accessories,13396.73,3,Cash,40190.19
+INV0220,2026-01-03,B,Ibadan,Female,Home and Lifestyle,4111.31,4,Bank Transfer,16445.24
+INV0221,2026-05-28,C,Lagos,Male,Home and Lifestyle,3895.13,7,Cash,27265.91
+INV0222,2026-06-13,A,Ibadan,Male,Health and Beauty,2418.72,7,Cash,16931.04
+INV0223,2026-05-27,A,Ibadan,Male,Home and Lifestyle,13375.9,4,Cash,53503.6
+INV0224,2026-03-31,C,Ibadan,Male,Food and Beverages,15405.27,6,Bank Transfer,92431.62
+INV0225,2026-05-27,A,Ibadan,Female,Food and Beverages,5668.41,3,Cash,17005.23
+INV0226,2026-05-28,B,Abuja,Female,Health and Beauty,908.43,6,Bank Transfer,5450.58
+INV0227,2026-04-06,A,Lagos,Female,Health and Beauty,2102.35,2,Cash,4204.7
+INV0228,2026-02-21,B,Ibadan,Male,Sports and Travel,19373.27,8,Card,154986.16
+INV0229,2026-06-10,C,Abuja,Male,Health and Beauty,6261.17,2,Cash,12522.34
+INV0230,2026-06-17,A,Lagos,Female,Electronic Accessories,15499.85,7,Cash,108498.95
+INV0231,2026-05-08,C,Lagos,Male,Home and Lifestyle,12680.94,9,Bank Transfer,114128.46
+INV0232,2026-02-08,A,Lagos,Male,Health and Beauty,7947.82,1,Bank Transfer,7947.82
+INV0233,2026-03-23,B,Lagos,Male,Fashion Accessories,4510.9,8,Cash,36087.2
+INV0234,2026-04-14,C,Ibadan,Male,Sports and Travel,2867.04,7,Card,20069.28
+INV0235,2026-05-09,A,Ibadan,Female,Fashion Accessories,12492.75,6,Cash,74956.5
+INV0236,2026-01-11,B,Abuja,Female,Food and Beverages,15605.36,6,Cash,93632.16
+INV0237,2026-06-27,C,Abuja,Female,Home and Lifestyle,13056.13,6,Card,78336.78
+INV0238,2026-05-31,C,Abuja,Male,Health and Beauty,10840.89,9,Bank Transfer,97568.01
+INV0239,2026-06-08,A,Lagos,Female,Fashion Accessories,1318.05,2,Cash,2636.1
+INV0240,2026-02-11,A,Lagos,Female,Home and Lifestyle,19385.53,1,Bank Transfer,19385.53
+INV0241,2026-04-09,A,Ibadan,Male,Food and Beverages,16074.93,6,Bank Transfer,96449.58
+INV0242,2026-01-07,B,Lagos,Male,Electronic Accessories,6210.03,10,Card,62100.3
+INV0243,2026-05-24,A,Lagos,Female,Sports and Travel,19609.42,8,Card,156875.36
+INV0244,2026-03-31,C,Lagos,Female,Home and Lifestyle,12236.69,3,Bank Transfer,36710.07
+INV0245,2026-04-22,C,Abuja,Female,Home and Lifestyle,11857.24,10,Cash,118572.4
+INV0246,2026-03-01,A,Abuja,Female,Electronic Accessories,15087.43,1,Bank Transfer,15087.43
+INV0247,2026-04-23,A,Ibadan,Male,Home and Lifestyle,16329.51,9,Cash,146965.59
+INV0248,2026-01-02,C,Lagos,Female,Food and Beverages,13301.33,1,Cash,13301.33
+INV0249,2026-05-09,B,Lagos,Female,Food and Beverages,2997.87,3,Card,8993.61
+INV0250,2026-02-17,A,Ibadan,Male,Electronic Accessories,7096.22,8,Cash,56769.76
+INV0251,2026-05-20,A,Lagos,Female,Sports and Travel,18597.63,3,Cash,55792.89
+INV0252,2026-02-06,C,Lagos,Male,Health and Beauty,4880.0,4,Bank Transfer,19520.0
+INV0253,2026-06-09,A,Abuja,Male,Fashion Accessories,7757.26,8,Card,62058.08
+INV0254,2026-01-09,B,Ibadan,Male,Health and Beauty,8925.5,1,Cash,8925.5
+INV0255,2026-04-09,C,Ibadan,Female,Home and Lifestyle,9068.4,6,Cash,54410.4
+INV0256,2026-05-27,A,Ibadan,Female,Fashion Accessories,12452.32,1,Card,12452.32
+INV0257,2026-02-17,C,Ibadan,Male,Electronic Accessories,18889.98,1,Bank Transfer,18889.98
+INV0258,2026-05-11,A,Abuja,Female,Electronic Accessories,5193.51,8,Card,41548.08
+INV0259,2026-05-28,A,Abuja,Female,Sports and Travel,2869.28,4,Card,11477.12
+INV0260,2026-06-01,A,Lagos,Male,Fashion Accessories,4350.67,1,Cash,4350.67
+INV0261,2026-02-23,B,Lagos,Male,Food and Beverages,17795.04,10,Cash,177950.4
+INV0262,2026-04-30,B,Lagos,Female,Fashion Accessories,13093.31,7,Bank Transfer,91653.17
+INV0263,2026-06-10,C,Lagos,Male,Home and Lifestyle,6075.18,5,Cash,30375.9
+INV0264,2026-06-01,A,Abuja,Female,Food and Beverages,16410.97,5,Cash,82054.85
+INV0265,2026-04-26,A,Ibadan,Female,Electronic Accessories,17296.71,1,Card,17296.71
+INV0266,2026-03-16,B,Abuja,Female,Fashion Accessories,17007.03,10,Cash,170070.3
+INV0267,2026-04-23,A,Lagos,Female,Health and Beauty,18419.07,6,Bank Transfer,110514.42
+INV0268,2026-06-13,B,Abuja,Male,Sports and Travel,5418.7,9,Card,48768.3
+INV0269,2026-06-15,A,Ibadan,Male,Health and Beauty,15223.32,9,Bank Transfer,137009.88
+INV0270,2026-04-14,C,Ibadan,Male,Sports and Travel,9480.52,8,Card,75844.16
+INV0271,2026-03-25,A,Abuja,Male,Home and Lifestyle,16918.97,5,Cash,84594.85
+INV0272,2026-04-22,A,Abuja,Female,Health and Beauty,14705.57,1,Card,14705.57
+INV0273,2026-04-09,B,Abuja,Female,Fashion Accessories,15640.73,9,Card,140766.57
+INV0274,2026-06-02,A,Lagos,Male,Fashion Accessories,13295.16,1,Cash,13295.16
+INV0275,2026-04-03,A,Abuja,Female,Health and Beauty,3959.86,8,Cash,31678.88
+INV0276,2026-05-26,B,Abuja,Female,Fashion Accessories,11128.02,5,Bank Transfer,55640.1
+INV0277,2026-05-08,C,Abuja,Female,Home and Lifestyle,19701.06,3,Bank Transfer,59103.18
+INV0278,2026-04-20,C,Ibadan,Male,Food and Beverages,18779.07,7,Cash,131453.49
+INV0279,2026-03-23,B,Ibadan,Male,Home and Lifestyle,1341.89,7,Cash,9393.23
+INV0280,2026-02-23,B,Lagos,Male,Sports and Travel,3713.89,9,Cash,33425.01
+INV0281,2026-06-12,B,Lagos,Female,Home and Lifestyle,3068.71,7,Card,21480.97
+INV0282,2026-06-18,B,Ibadan,Male,Sports and Travel,14656.61,3,Card,43969.83
+INV0283,2026-06-10,B,Ibadan,Male,Fashion Accessories,16446.81,1,Card,16446.81
+INV0284,2026-03-09,C,Ibadan,Male,Food and Beverages,4663.47,8,Cash,37307.76
+INV0285,2026-02-02,C,Abuja,Male,Fashion Accessories,10364.13,3,Bank Transfer,31092.39
+INV0286,2026-05-22,B,Abuja,Male,Electronic Accessories,16893.71,8,Cash,135149.68
+INV0287,2026-01-21,A,Ibadan,Male,Fashion Accessories,14789.63,8,Card,118317.04
+INV0288,2026-02-17,B,Abuja,Female,Sports and Travel,11073.63,5,Card,55368.15
+INV0289,2026-05-28,A,Abuja,Female,Fashion Accessories,12011.78,1,Cash,12011.78
+INV0290,2026-05-08,B,Lagos,Male,Fashion Accessories,10413.03,10,Cash,104130.3
+INV0291,2026-05-16,B,Ibadan,Male,Food and Beverages,6302.19,7,Card,44115.33
+INV0292,2026-05-15,C,Ibadan,Female,Fashion Accessories,11517.93,10,Card,115179.3
+INV0293,2026-05-25,A,Abuja,Female,Food and Beverages,13933.26,5,Card,69666.3
+INV0294,2026-05-08,A,Ibadan,Male,Health and Beauty,17529.8,8,Cash,140238.4
+INV0295,2026-02-02,C,Lagos,Male,Electronic Accessories,12907.68,9,Card,116169.12
+INV0296,2026-06-25,C,Lagos,Male,Food and Beverages,15341.87,7,Card,107393.09
+INV0297,2026-04-25,C,Lagos,Male,Sports and Travel,3621.4,7,Bank Transfer,25349.8
+INV0298,2026-04-29,C,Ibadan,Female,Health and Beauty,9500.37,1,Cash,9500.37
+INV0299,2026-01-22,A,Ibadan,Male,Food and Beverages,681.97,4,Bank Transfer,2727.88
+INV0300,2026-06-07,A,Ibadan,Male,Food and Beverages,5310.24,2,Bank Transfer,10620.48
+INV0301,2026-02-07,B,Ibadan,Male,Electronic Accessories,14666.0,2,Card,29332.0
+INV0302,2026-04-19,B,Ibadan,Male,Sports and Travel,19840.29,2,Cash,39680.58
+INV0303,2026-02-20,C,Lagos,Female,Home and Lifestyle,2433.97,4,Card,9735.88
+INV0304,2026-01-08,C,Abuja,Female,Home and Lifestyle,8329.14,1,Cash,8329.14
+INV0305,2026-01-27,C,Lagos,Female,Food and Beverages,16101.38,4,Bank Transfer,64405.52
+INV0306,2026-01-27,B,Ibadan,Male,Fashion Accessories,4478.69,2,Cash,8957.38
+INV0307,2026-01-21,B,Lagos,Male,Sports and Travel,11324.16,5,Card,56620.8
+INV0308,2026-01-30,B,Ibadan,Female,Health and Beauty,14794.89,3,Card,44384.67
+INV0309,2026-04-07,B,Ibadan,Male,Fashion Accessories,12511.72,8,Card,100093.76
+INV0310,2026-01-28,B,Lagos,Male,Fashion Accessories,4166.48,4,Cash,16665.92
+INV0311,2026-04-21,B,Ibadan,Female,Sports and Travel,7430.0,1,Bank Transfer,7430.0
+INV0312,2026-03-02,B,Abuja,Female,Food and Beverages,15783.94,1,Bank Transfer,15783.94
+INV0313,2026-02-17,C,Ibadan,Female,Food and Beverages,11307.42,10,Cash,113074.2
+INV0314,2026-05-27,C,Abuja,Female,Food and Beverages,601.98,3,Card,1805.94
+INV0315,2026-01-04,C,Abuja,Male,Food and Beverages,15339.32,9,Bank Transfer,138053.88
+INV0316,2026-02-04,C,Ibadan,Male,Home and Lifestyle,1188.57,7,Card,8319.99
+INV0317,2026-02-18,B,Lagos,Female,Food and Beverages,15041.81,2,Cash,30083.62
+INV0318,2026-01-17,A,Abuja,Male,Home and Lifestyle,4448.37,9,Card,40035.33
+INV0319,2026-06-21,B,Lagos,Female,Home and Lifestyle,19182.43,10,Bank Transfer,191824.3
+INV0320,2026-06-07,A,Abuja,Female,Food and Beverages,7674.84,2,Bank Transfer,15349.68
+INV0321,2026-02-15,C,Ibadan,Male,Electronic Accessories,6875.17,3,Card,20625.51
+INV0322,2026-04-27,B,Ibadan,Female,Health and Beauty,3403.32,10,Cash,34033.2
+INV0323,2026-01-06,C,Abuja,Male,Fashion Accessories,6459.28,2,Card,12918.56
+INV0324,2026-04-09,B,Ibadan,Male,Home and Lifestyle,17594.69,3,Cash,52784.07
+INV0325,2026-05-04,C,Abuja,Male,Sports and Travel,19928.52,6,Card,119571.12
+INV0326,2026-02-06,A,Ibadan,Male,Sports and Travel,7682.04,9,Bank Transfer,69138.36
+INV0327,2026-01-24,A,Lagos,Female,Health and Beauty,9247.91,9,Cash,83231.19
+INV0328,2026-04-03,A,Ibadan,Male,Sports and Travel,14580.38,7,Cash,102062.66
+INV0329,2026-02-15,B,Lagos,Female,Electronic Accessories,17780.82,3,Cash,53342.46
+INV0330,2026-06-30,A,Ibadan,Female,Sports and Travel,12064.36,4,Bank Transfer,48257.44
+INV0331,2026-04-05,B,Lagos,Female,Fashion Accessories,8134.75,6,Card,48808.5
+INV0332,2026-04-09,A,Ibadan,Female,Fashion Accessories,8546.13,5,Bank Transfer,42730.65
+INV0333,2026-04-26,A,Lagos,Male,Home and Lifestyle,14064.55,2,Cash,28129.1
+INV0334,2026-06-09,B,Abuja,Male,Food and Beverages,562.76,6,Card,3376.56
+INV0335,2026-06-10,B,Abuja,Female,Electronic Accessories,12581.99,3,Bank Transfer,37745.97
+INV0336,2026-03-08,A,Lagos,Female,Home and Lifestyle,7432.11,8,Cash,59456.88
+INV0337,2026-05-08,B,Ibadan,Male,Electronic Accessories,15986.85,2,Cash,31973.7
+INV0338,2026-01-18,A,Lagos,Female,Food and Beverages,2313.32,1,Bank Transfer,2313.32
+INV0339,2026-01-25,B,Ibadan,Male,Sports and Travel,11969.94,9,Bank Transfer,107729.46
+INV0340,2026-02-23,C,Abuja,Female,Sports and Travel,9878.97,3,Bank Transfer,29636.91
+INV0341,2026-02-27,C,Ibadan,Male,Food and Beverages,13025.35,1,Cash,13025.35
+INV0342,2026-03-08,C,Abuja,Female,Home and Lifestyle,1764.65,7,Bank Transfer,12352.55
+INV0343,2026-04-14,C,Ibadan,Female,Food and Beverages,11809.68,10,Cash,118096.8
+INV0344,2026-06-23,C,Ibadan,Male,Health and Beauty,11448.95,5,Bank Transfer,57244.75
+INV0345,2026-01-24,A,Ibadan,Female,Fashion Accessories,11432.87,5,Cash,57164.35
+INV0346,2026-04-24,C,Lagos,Female,Home and Lifestyle,12268.01,1,Cash,12268.01
+INV0347,2026-02-01,C,Lagos,Male,Electronic Accessories,13691.12,9,Card,123220.08
+INV0348,2026-06-24,C,Abuja,Female,Health and Beauty,16197.29,7,Bank Transfer,113381.03
+INV0349,2026-03-27,C,Abuja,Male,Home and Lifestyle,5761.5,8,Bank Transfer,46092.0
+INV0350,2026-05-31,B,Lagos,Male,Food and Beverages,16588.46,9,Cash,149296.14
+INV0351,2026-05-07,A,Abuja,Female,Food and Beverages,10215.99,6,Cash,61295.94
+INV0352,2026-06-04,C,Lagos,Female,Food and Beverages,2002.64,5,Cash,10013.2
+INV0353,2026-05-10,C,Ibadan,Female,Food and Beverages,1641.74,6,Card,9850.44
+INV0354,2026-01-17,C,Abuja,Female,Electronic Accessories,7017.65,2,Card,14035.3
+INV0355,2026-04-14,A,Abuja,Female,Health and Beauty,15805.49,4,Cash,63221.96
+INV0356,2026-06-10,B,Lagos,Female,Sports and Travel,14299.78,3,Bank Transfer,42899.34
+INV0357,2026-05-17,A,Abuja,Female,Fashion Accessories,15877.99,7,Bank Transfer,111145.93
+INV0358,2026-02-12,B,Abuja,Male,Electronic Accessories,10586.75,9,Card,95280.75
+INV0359,2026-06-25,C,Ibadan,Female,Electronic Accessories,9083.88,5,Card,45419.4
+INV0360,2026-02-08,C,Abuja,Male,Sports and Travel,3375.32,6,Cash,20251.92
+INV0361,2026-06-19,A,Ibadan,Female,Sports and Travel,6899.76,10,Bank Transfer,68997.6
+INV0362,2026-01-26,A,Lagos,Female,Fashion Accessories,8963.38,2,Cash,17926.76
+INV0363,2026-04-09,B,Abuja,Male,Fashion Accessories,2227.71,3,Card,6683.13
+INV0364,2026-02-19,B,Ibadan,Female,Sports and Travel,4801.93,3,Bank Transfer,14405.79
+INV0365,2026-06-02,A,Lagos,Female,Food and Beverages,12165.39,9,Bank Transfer,109488.51
+INV0366,2026-06-01,B,Abuja,Male,Electronic Accessories,14845.43,7,Card,103918.01
+INV0367,2026-01-13,A,Lagos,Female,Home and Lifestyle,19967.78,8,Cash,159742.24
+INV0368,2026-03-01,B,Abuja,Female,Fashion Accessories,18695.71,10,Cash,186957.1
+INV0369,2026-05-15,A,Lagos,Female,Fashion Accessories,13030.02,9,Bank Transfer,117270.18
+INV0370,2026-02-26,A,Lagos,Male,Sports and Travel,8714.34,6,Card,52286.04
+INV0371,2026-02-05,A,Ibadan,Female,Health and Beauty,12905.46,4,Bank Transfer,51621.84
+INV0372,2026-06-22,B,Lagos,Female,Home and Lifestyle,15820.21,1,Card,15820.21
+INV0373,2026-01-20,B,Abuja,Female,Home and Lifestyle,2807.56,8,Cash,22460.48
+INV0374,2026-03-06,B,Abuja,Female,Fashion Accessories,8493.15,7,Card,59452.05
+INV0375,2026-01-08,A,Ibadan,Male,Food and Beverages,16876.14,2,Cash,33752.28
+INV0376,2026-05-24,B,Abuja,Male,Health and Beauty,7984.74,8,Card,63877.92
+INV0377,2026-05-22,B,Abuja,Female,Home and Lifestyle,11651.51,5,Bank Transfer,58257.55
+INV0378,2026-04-25,A,Abuja,Female,Fashion Accessories,11961.5,7,Cash,83730.5
+INV0379,2026-05-23,C,Lagos,Male,Home and Lifestyle,4097.29,4,Bank Transfer,16389.16
+INV0380,2026-04-02,A,Lagos,Male,Health and Beauty,7563.59,5,Bank Transfer,37817.95
+INV0381,2026-04-08,B,Abuja,Female,Health and Beauty,7022.97,8,Cash,56183.76
+INV0382,2026-03-07,A,Ibadan,Male,Electronic Accessories,1010.84,1,Cash,1010.84
+INV0383,2026-02-01,C,Lagos,Female,Sports and Travel,971.74,1,Bank Transfer,971.74
+INV0384,2026-03-27,A,Ibadan,Male,Sports and Travel,16718.09,4,Bank Transfer,66872.36
+INV0385,2026-02-20,B,Abuja,Male,Fashion Accessories,5824.88,3,Bank Transfer,17474.64
+INV0386,2026-06-02,C,Abuja,Male,Health and Beauty,10602.54,10,Bank Transfer,106025.4
+INV0387,2026-03-04,B,Lagos,Male,Electronic Accessories,6325.15,2,Cash,12650.3
+INV0388,2026-05-05,C,Abuja,Female,Electronic Accessories,18843.25,3,Cash,56529.75
+INV0389,2026-05-30,C,Lagos,Male,Home and Lifestyle,5556.29,1,Bank Transfer,5556.29
+INV0390,2026-02-27,A,Abuja,Male,Home and Lifestyle,8878.31,1,Card,8878.31
+INV0391,2026-02-27,A,Abuja,Female,Electronic Accessories,17518.24,6,Card,105109.44
+INV0392,2026-03-27,B,Lagos,Male,Home and Lifestyle,16917.7,5,Cash,84588.5
+INV0393,2026-02-18,A,Lagos,Male,Health and Beauty,4128.98,8,Bank Transfer,33031.84
+INV0394,2026-06-29,A,Lagos,Female,Food and Beverages,16151.54,2,Bank Transfer,32303.08
+INV0395,2026-06-19,C,Abuja,Male,Health and Beauty,9434.64,4,Cash,37738.56
+INV0396,2026-03-11,A,Abuja,Female,Electronic Accessories,9917.89,8,Card,79343.12
+INV0397,2026-01-15,C,Ibadan,Female,Electronic Accessories,3102.86,6,Card,18617.16
+INV0398,2026-02-23,C,Lagos,Female,Health and Beauty,2071.73,1,Card,2071.73
+INV0399,2026-04-11,C,Abuja,Female,Home and Lifestyle,14694.82,4,Cash,58779.28
+INV0400,2026-01-08,B,Abuja,Male,Home and Lifestyle,10180.99,1,Card,10180.99
+INV0401,2026-02-22,B,Lagos,Female,Sports and Travel,9018.59,2,Cash,18037.18
+INV0402,2026-03-01,B,Ibadan,Male,Electronic Accessories,14725.41,5,Cash,73627.05
+INV0403,2026-04-18,C,Lagos,Male,Fashion Accessories,15427.5,8,Bank Transfer,123420.0
+INV0404,2026-01-05,B,Ibadan,Male,Sports and Travel,3598.71,8,Card,28789.68
+INV0405,2026-04-13,B,Abuja,Male,Home and Lifestyle,12399.39,3,Cash,37198.17
+INV0406,2026-01-06,A,Ibadan,Male,Health and Beauty,3139.4,4,Card,12557.6
+INV0407,2026-04-19,B,Abuja,Male,Home and Lifestyle,15151.81,10,Card,151518.1
+INV0408,2026-04-26,B,Lagos,Male,Health and Beauty,13310.63,6,Bank Transfer,79863.78
+INV0409,2026-04-04,C,Lagos,Male,Sports and Travel,19153.99,10,Card,191539.9
+INV0410,2026-02-16,C,Lagos,Male,Electronic Accessories,1844.68,3,Bank Transfer,5534.04
+INV0411,2026-04-09,C,Ibadan,Male,Home and Lifestyle,1612.57,2,Cash,3225.14
+INV0412,2026-02-24,C,Abuja,Female,Health and Beauty,6002.65,6,Card,36015.9
+INV0413,2026-06-17,C,Lagos,Female,Electronic Accessories,5603.26,5,Cash,28016.3
+INV0414,2026-02-21,C,Lagos,Female,Fashion Accessories,5316.09,10,Card,53160.9
+INV0415,2026-05-24,B,Abuja,Male,Health and Beauty,18171.96,5,Cash,90859.8
+INV0416,2026-01-13,C,Lagos,Female,Sports and Travel,5366.15,10,Card,53661.5
+INV0417,2026-04-24,C,Abuja,Female,Fashion Accessories,5803.02,5,Card,29015.1
+INV0418,2026-05-04,A,Abuja,Female,Fashion Accessories,15308.27,10,Card,153082.7
+INV0419,2026-04-16,B,Abuja,Male,Food and Beverages,9269.93,5,Card,46349.65
+INV0420,2026-06-07,B,Abuja,Male,Home and Lifestyle,15645.86,3,Card,46937.58
+INV0421,2026-05-27,B,Abuja,Male,Health and Beauty,1774.64,7,Card,12422.48
+INV0422,2026-05-25,C,Ibadan,Male,Fashion Accessories,10007.64,6,Card,60045.84
+INV0423,2026-04-30,C,Lagos,Female,Food and Beverages,1155.47,4,Card,4621.88
+INV0424,2026-03-04,C,Ibadan,Female,Sports and Travel,1721.74,2,Card,3443.48
+INV0425,2026-01-19,A,Lagos,Female,Electronic Accessories,18175.53,9,Cash,163579.77
+INV0426,2026-04-02,C,Ibadan,Female,Health and Beauty,3215.28,1,Bank Transfer,3215.28
+INV0427,2026-02-27,A,Abuja,Male,Fashion Accessories,10882.2,4,Card,43528.8
+INV0428,2026-03-31,B,Lagos,Male,Home and Lifestyle,8516.36,1,Bank Transfer,8516.36
+INV0429,2026-04-27,C,Lagos,Male,Food and Beverages,7273.19,6,Card,43639.14
+INV0430,2026-03-03,A,Ibadan,Female,Fashion Accessories,18046.75,4,Card,72187.0
+INV0431,2026-01-23,A,Ibadan,Male,Home and Lifestyle,925.56,5,Cash,4627.8
+INV0432,2026-05-07,C,Lagos,Male,Fashion Accessories,13443.9,5,Cash,67219.5
+INV0433,2026-05-17,B,Ibadan,Female,Health and Beauty,19286.19,9,Bank Transfer,173575.71
+INV0434,2026-05-20,B,Ibadan,Female,Health and Beauty,11423.28,1,Cash,11423.28
+INV0435,2026-05-09,B,Ibadan,Male,Health and Beauty,18768.04,2,Cash,37536.08
+INV0436,2026-02-27,A,Abuja,Male,Sports and Travel,1519.03,6,Bank Transfer,9114.18
+INV0437,2026-05-02,A,Abuja,Male,Sports and Travel,8666.47,5,Cash,43332.35
+INV0438,2026-01-01,A,Ibadan,Male,Food and Beverages,5573.08,7,Card,39011.56
+INV0439,2026-02-03,A,Ibadan,Male,Health and Beauty,14751.01,3,Bank Transfer,44253.03
+INV0440,2026-04-06,B,Abuja,Male,Home and Lifestyle,19635.29,3,Bank Transfer,58905.87
+INV0441,2026-05-06,C,Abuja,Female,Fashion Accessories,5502.34,10,Card,55023.4
+INV0442,2026-04-28,A,Lagos,Female,Electronic Accessories,13256.4,2,Cash,26512.8
+INV0443,2026-02-17,A,Lagos,Female,Home and Lifestyle,4362.9,3,Bank Transfer,13088.7
+INV0444,2026-03-30,B,Abuja,Male,Sports and Travel,11523.94,10,Bank Transfer,115239.4
+INV0445,2026-04-27,C,Ibadan,Female,Sports and Travel,9546.68,1,Card,9546.68
+INV0446,2026-05-09,C,Ibadan,Male,Home and Lifestyle,19454.1,5,Card,97270.5
+INV0447,2026-01-16,B,Ibadan,Male,Sports and Travel,12366.28,5,Cash,61831.4
+INV0448,2026-03-10,B,Ibadan,Female,Health and Beauty,7315.37,7,Bank Transfer,51207.59
+INV0449,2026-01-22,C,Lagos,Male,Food and Beverages,2724.87,4,Cash,10899.48
+INV0450,2026-04-03,A,Abuja,Male,Fashion Accessories,3449.31,3,Cash,10347.93
+INV0451,2026-03-17,C,Ibadan,Female,Food and Beverages,4893.68,1,Card,4893.68
+INV0452,2026-06-03,B,Lagos,Female,Fashion Accessories,5393.85,8,Bank Transfer,43150.8
+INV0453,2026-05-24,A,Ibadan,Female,Fashion Accessories,17087.01,3,Bank Transfer,51261.03
+INV0454,2026-06-28,A,Abuja,Male,Food and Beverages,11443.84,2,Bank Transfer,22887.68
+INV0455,2026-03-27,B,Lagos,Female,Home and Lifestyle,10706.12,4,Card,42824.48
+INV0456,2026-01-29,B,Abuja,Female,Fashion Accessories,2737.99,3,Card,8213.97
+INV0457,2026-03-10,B,Abuja,Male,Food and Beverages,17272.72,1,Card,17272.72
+INV0458,2026-02-16,C,Lagos,Female,Fashion Accessories,14594.88,3,Card,43784.64
+INV0459,2026-04-04,C,Lagos,Female,Electronic Accessories,1819.53,2,Card,3639.06
+INV0460,2026-05-24,A,Lagos,Female,Home and Lifestyle,14302.78,8,Bank Transfer,114422.24
+INV0461,2026-06-25,B,Lagos,Male,Health and Beauty,11099.0,6,Cash,66594.0
+INV0462,2026-03-26,A,Lagos,Male,Fashion Accessories,2093.64,9,Bank Transfer,18842.76
+INV0463,2026-02-08,A,Lagos,Male,Electronic Accessories,9436.86,8,Cash,75494.88
+INV0464,2026-04-10,A,Lagos,Male,Health and Beauty,9951.58,10,Card,99515.8
+INV0465,2026-02-02,A,Ibadan,Female,Health and Beauty,3732.6,3,Cash,11197.8
+INV0466,2026-04-11,B,Abuja,Male,Fashion Accessories,18941.11,5,Bank Transfer,94705.55
+INV0467,2026-01-23,A,Lagos,Male,Food and Beverages,17074.52,7,Bank Transfer,119521.64
+INV0468,2026-01-10,B,Ibadan,Female,Fashion Accessories,13545.94,5,Cash,67729.7
+INV0469,2026-03-10,B,Ibadan,Female,Electronic Accessories,9514.76,8,Card,76118.08
+INV0470,2026-04-10,C,Ibadan,Female,Health and Beauty,8529.43,5,Card,42647.15
+INV0471,2026-02-03,B,Abuja,Male,Fashion Accessories,13193.98,1,Bank Transfer,13193.98
+INV0472,2026-06-29,C,Lagos,Male,Food and Beverages,11135.92,5,Cash,55679.6
+INV0473,2026-05-18,B,Ibadan,Male,Fashion Accessories,1714.33,4,Card,6857.32
+INV0474,2026-05-27,B,Abuja,Female,Home and Lifestyle,10493.8,6,Card,62962.8
+INV0475,2026-04-06,B,Abuja,Female,Food and Beverages,16224.87,3,Bank Transfer,48674.61
+INV0476,2026-01-01,C,Abuja,Male,Electronic Accessories,9455.18,5,Card,47275.9
+INV0477,2026-03-10,C,Ibadan,Female,Health and Beauty,1513.15,2,Cash,3026.3
+INV0478,2026-01-04,A,Lagos,Female,Fashion Accessories,15832.42,6,Bank Transfer,94994.52
+INV0479,2026-01-16,C,Ibadan,Female,Food and Beverages,4426.59,6,Bank Transfer,26559.54
+INV0480,2026-01-24,C,Ibadan,Male,Home and Lifestyle,5543.11,5,Cash,27715.55
+INV0481,2026-03-21,C,Lagos,Female,Food and Beverages,3711.77,6,Bank Transfer,22270.62
+INV0482,2026-01-02,C,Lagos,Female,Sports and Travel,6939.19,7,Card,48574.33
+INV0483,2026-05-08,A,Lagos,Male,Home and Lifestyle,15256.65,5,Card,76283.25
+INV0484,2026-06-09,C,Abuja,Male,Electronic Accessories,10628.02,1,Cash,10628.02
+INV0485,2026-03-25,B,Lagos,Female,Health and Beauty,4495.18,8,Card,35961.44
+INV0486,2026-06-01,B,Ibadan,Female,Electronic Accessories,17617.69,4,Cash,70470.76
+INV0487,2026-05-20,C,Lagos,Male,Fashion Accessories,17651.85,9,Cash,158866.65
+INV0488,2026-06-27,C,Ibadan,Male,Food and Beverages,17476.28,10,Card,174762.8
+INV0489,2026-06-12,B,Abuja,Female,Sports and Travel,5156.53,6,Cash,30939.18
+INV0490,2026-05-04,B,Ibadan,Female,Home and Lifestyle,9299.17,1,Card,9299.17
+INV0491,2026-02-02,A,Ibadan,Female,Home and Lifestyle,19707.3,3,Bank Transfer,59121.9
+INV0492,2026-06-10,B,Lagos,Female,Food and Beverages,15554.24,3,Bank Transfer,46662.72
+INV0493,2026-06-28,B,Lagos,Male,Sports and Travel,1029.76,10,Cash,10297.6
+INV0494,2026-06-20,C,Ibadan,Female,Food and Beverages,1771.49,4,Card,7085.96
+INV0495,2026-04-11,B,Lagos,Female,Fashion Accessories,9546.66,6,Card,57279.96
+INV0496,2026-01-12,A,Abuja,Male,Electronic Accessories,18229.79,7,Bank Transfer,127608.53
+INV0497,2026-03-08,B,Abuja,Female,Home and Lifestyle,11004.69,10,Bank Transfer,110046.9
+INV0498,2026-03-06,C,Lagos,Male,Fashion Accessories,10207.34,4,Card,40829.36
+INV0499,2026-06-10,C,Abuja,Female,Electronic Accessories,2556.74,6,Cash,15340.44
+INV0500,2026-06-17,B,Lagos,Female,Fashion Accessories,13307.21,1,Bank Transfer,13307.21
